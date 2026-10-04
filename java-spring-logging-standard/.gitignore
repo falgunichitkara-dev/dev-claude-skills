@@ -1,0 +1,6 @@
+*.skill
+.DS_Store
+*.class
+target/
+.idea/
+*.iml
